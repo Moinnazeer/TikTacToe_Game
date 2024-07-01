@@ -10,3 +10,5 @@ Technologies Used
 HTML: Structure and layout of the game board and elements.
 CSS: Styling and visual enhancements for a better user experience.
 JavaScript: Core game logic, event handling, and dynamic updates.
+Contributions:
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
